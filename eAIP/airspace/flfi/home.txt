@@ -1,0 +1,6 @@
+===== FLFI | Lusaka =====
+
+{{tabembed>about|About,classification|Classification,sectors|Sectors,rules|Rules,initialclimb|Initial Climb,transitions|TA/TL,loa|Agreements,alias:std|Alias}}
+
+
+{{page>fl-footer#FLFI}}

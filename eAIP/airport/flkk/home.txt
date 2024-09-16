@@ -1,0 +1,6 @@
+===== FLKK | Kenneth Kaunda Intl | Lusaka, Zambia =====
+
+{{tabembed>bout|About,flkk-delivery|Delivery,flkk-ground|Ground,flkk-tower|Tower,flkk-departure|Departure,pproach|Approach,flkk-coordination|Coordination,flkk-charts|Charts,flkk-scenery|Scenery,flkk-briefing|Briefing}}
+
+
+{{page>fl-footer#Zambia}}

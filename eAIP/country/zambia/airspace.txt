@@ -1,0 +1,8 @@
+==== Zambia Airspace ====
+
+^ ICAO  ^ Name              ^ SSA Code  ^ Type    ^ Remarks ^
+| FLFI | Lusaka | [[airspace:flfi:home|FLFI]] | -       | - |
+
+
+
+{{page>fl-footer#Zambia}}

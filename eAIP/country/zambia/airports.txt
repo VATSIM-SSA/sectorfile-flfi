@@ -1,0 +1,8 @@
+==== Zambia Airports ====
+
+^ ICAO      ^ Name                ^ City          ^ Status        ^ Remarks ^
+| [[airport:flkk:home|FLKK]]  | Kenneth Kaunda Intl | Lusaka        | In Development             | - |
+
+
+
+{{page>fl-footer#Zambia}}

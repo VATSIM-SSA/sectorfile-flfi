@@ -1,0 +1,13 @@
+===== FLFI Lusaka Flight Information Region =====
+
+  * The Lusaka FIR covers the entirety of [[country:zambia:home|Zambia]]'s borders. 
+
+==== Airport Coverage ====
+
+Lusaka covers the following airports:
+
+=== Zambia ===
+
+{{page>country:zambia:airports#Zambia Airports}}
+
+{{page>fl-footer#FLFI}}
